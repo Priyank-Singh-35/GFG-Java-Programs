@@ -33,10 +33,16 @@ Constraints:
 
 // Solution-
 class Solution {
+    // This method calculates the sum of two numbers under a given modulo.
     static long sumUnderModulo(long a, long b) {
+        // Define the modulo value (10^9 + 7)
         int M = 1000000007; // Modulo value
+        
         // Calculate the sum of a and b under modulo M
         long sum = ((a % M) + (b % M)) % M;
+        
+        // Return the result
         return sum;
     }
 }
+
