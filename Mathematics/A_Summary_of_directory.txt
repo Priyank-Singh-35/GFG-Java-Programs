@@ -1,0 +1,22 @@
+// This is the Summary Table containing the time and space complexity of each problem solved in this directory
+_________________________________________________________________________________________________________
+| Code # | Problem Description                                | Time Complexity       | Space Complexity |
+|--------|----------------------------------------------------|-----------------------|------------------|
+| 1      | Absolute Value                                     | O(1)                  | O(1)             |
+| 2      | Celsius to Fahrenheit Conversion                   | O(1)                  | O(1)             |
+| 3      | Quadratic Roots Calculation                        | O(1)                  | O(1)             |
+| 4      | Factorial Calculation                              | O(N)                  | O(1)             |
+| 5      | Digits in Factorial                                | O(N)                  | O(1)             |
+| 6      | Prime Number Check                                 | O(√N)                 | O(1)             |
+| 7      | Geometric Progression Nth Term                     | O(1)                  | O(1)             |
+| 8      | Sum Under Modulo                                   | O(1)                  | O(1)             |
+| 9      | Multiplication Under Modulo                        | O(1)                  | O(1)             |
+| 10     | Modular Inverse                                    | O(m)                  | O(1)             |
+| 11     | Count Numbers with Exactly 3 Divisors              | O(√N log log N)       | O(√N)            |
+_________________________________________________________________________________________________________
+
+
+
+
+
+
