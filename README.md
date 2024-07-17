@@ -4,43 +4,47 @@ Welcome to the **GFG-Java-Programs** repository! This repository contains my sol
 
 ## 📂 Repository Structure
 
-The repository is organized into directories based on the topics covered in the course. Each topic directory contains files for individual problems, with comprehensive solutions and explanations.
+Navigate through the repository with ease! Each directory represents a specific type of data structure or algorithm category. Inside, you'll find well-commented Java code files that explain the logic, steps, and complexity analysis for each implementation.
 
 ## 📜 Contents
 
-### 1. Arrays
-**Description:** Problems related to array manipulation, searching, sorting, and other array-based algorithms.  
+### 🏗️ Data Structures
+- **Mathematics:** Basic Mathematical operations.
+- **Bit Magic:** Basic Bit operations.
+- **Arrays:** Basic operations, dynamic arrays, and multidimensional arrays.
+- **Linked Lists:** Singly linked list, doubly linked list, circular linked list.
+- **Stacks and Queues:** Implementations using arrays and linked lists, circular queue.
+- **Trees:** Binary trees, binary search trees, AVL trees, red-black trees, segment trees.
+- **Heaps:** Min heap, max heap, heap operations.
+- **Graphs:** Representation (adjacency matrix, adjacency list), traversal algorithms (BFS, DFS), shortest path algorithms (Dijkstra’s, Floyd-Warshall), minimum spanning tree algorithms (Kruskal’s, Prim’s).
+- **Hash Tables:** Hash map, hash set, collision resolution techniques.
 
-### 2. Linked Lists
-**Description:** Solutions for problems involving singly, doubly, and circular linked lists, including insertion, deletion, and traversal algorithms.  
+### 🔢 Algorithms
+- **Sorting Algorithms:** Bubble sort, selection sort, insertion sort, merge sort, quick sort, heap sort, counting sort, radix sort.
+- **Searching Algorithms:** Linear search, binary search, depth-first search, breadth-first search.
+- **Dynamic Programming:** Knapsack problem, longest common subsequence, matrix chain multiplication, and more.
+- **Greedy Algorithms:** Activity selection problem, Huffman coding, and more.
+- **Backtracking:** N-queens problem, subset sum problem, and other combinatorial problems.
+- **Divide and Conquer:** Merge sort, quick sort, closest pair of points.
 
-### 3. Trees
-**Description:** Implementation and problem-solving for various tree data structures, such as binary trees, binary search trees, and AVL trees.  
+## 🚀 Usage
 
-### 4. Graphs
-**Description:** Solutions for graph algorithms, including depth-first search (DFS), breadth-first search (BFS), and shortest path algorithms.  
+Each file is a self-contained module with comprehensive comments that describe the purpose, approach, and complexity (both time and space) of each method. Clone the repository, run the code, and witness the magic unfold!
 
-### 5. Dynamic Programming
-**Description:** Problems and solutions focusing on dynamic programming techniques for optimization problems.  
-
-### 6. Sorting & Searching
-**Description:** Classic sorting and searching algorithm implementations and related problem solutions.  
-
-## 🛠️ How to Use
+## 📜 How to Run
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/your-username/Data-Structures-Algorithms-Self-Paced.git
-    cd Data-Structures-Algorithms-Self-Paced
+    git clone https://github.com/your-username/dsa-java.git
+    cd dsa-java
     ```
 
-2. **Navigate to the Topic Directory:**
+2. **Compile and Run:**
+    Navigate to the directory of the desired data structure or algorithm and compile the Java file:
     ```sh
-    cd topic-directory-name
+    javac YourFileName.java
+    java YourFileName
     ```
-
-3. **Read the Problem and Solution:**
-    Each problem file contains the problem statement, solution, and complexity analysis. Follow the steps provided to understand the solution.
 
 ## 🤝 Contributions
 
@@ -48,7 +52,7 @@ Contributions are welcome! If you have better solutions, find bugs, or want to a
 
 1. **Fork the Repository:**
     ```sh
-    git clone https://github.com/your-username/Data-Structures-Algorithms-Self-Paced.git
+    git clone https://github.com/your-username/GFG-Java-Programs.git
     ```
 
 2. **Create Your Feature Branch:**
