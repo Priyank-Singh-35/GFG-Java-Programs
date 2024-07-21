@@ -1,0 +1,16 @@
+_________________________________________________________________________________________________________________
+| **Problem Description**                                 | **Time Complexity**    | **Space Complexity**        |
+|---------------------------------------------------------|------------------------|-----------------------------|
+| Calculate (N^R) % 1000000007                            | O(log R)               | O(1)                        |
+| Calculate n^p using recursion                           | O(p)                   | O(p)                        |
+| Calculate the nth Fibonacci number using recursion      | O(2^n)                 | O(n)                        |
+| Print numbers from 1 to N using recursion               | O(N)                   | O(N) (due to recursion)     |
+| Calculate the sum of digits of a number using recursion | O(log N)               | O(log N) (due to recursion) |
+| Count the number of digits in a number                  | O(1)                   | O(1)                        |
+| Generate all subsets of a given string                  | O(2^N)                 | O(2^N)                      |
+| Solve the Tower of Hanoi problem                        | O(2^n)                 | O(n) (due to recursion)     |
+| Find the digital root of a number using recursion       | O(log N)               | O(log N) (due to recursion) |
+| Solve the Josephus problem recursively                  | O(n)                   | O(n) (due to recursion)     |
+| Check if a number is lucky                              | O(sqrt(N))             | O(1)                        |
+| Generate all possible words from a given digit sequence | O(4^N)                 | O(4^N)                      |
+_________________________________________________________________________________________________________________
